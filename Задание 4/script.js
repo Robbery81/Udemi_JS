@@ -95,9 +95,6 @@ var appData = {
                 i--;
             }
         }
-
-
-
     },
     showObject: function () {
         console.log("Наша программа включает в себя данные: ");
